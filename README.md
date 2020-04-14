@@ -22,14 +22,16 @@ Carpeta "pdf" &rarr; Archivo  _.pdf_ con una descripción completa del desarroll
 
 ## Webs utilizadas para realizar scraping
 
-* http://www.rinconeducativo.org/contenidoextra/tablasperiodicas/tabla/tabla.php#tit consultada por última vez el 14/04/2020
+* http://www.rinconeducativo.org/contenidoextra/tablasperiodicas/tabla/tabla.php#tit consultada por última vez el 14/04/2020.
 
-* https://es.wikipedia.org/wiki/Tabla_peri%C3%B3dica_de_los_elementos consultada por última vez el 14/04/2020
+* https://es.wikipedia.org/wiki/Tabla_peri%C3%B3dica_de_los_elementos consultada por última vez el 14/04/2020.
 
 
 ## Recursos consultados
 
 * Lawson, R. (2015, october). _Web Scraping with Python_. Birmingham: Packt Publishing Ltd.
+
+* https://docs.python.org/3/library/re.html consultada por última vez el 14/04/2020.
 
 
 

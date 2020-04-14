@@ -13,7 +13,7 @@ La actividad ha sido realizada de manera individual por **Mario Martínez Garcí
 
 ## Ficheros 
 
-Carpeta "python":
+Carpeta "python_code":
 
   &rarr; Código de texto escrito en python guardado en formato _.ipynb_ y creado en la plataforma "Jupyter"
 

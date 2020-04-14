@@ -13,12 +13,27 @@ La actividad ha sido realizada de manera individual por **Mario Martínez Garcí
 
 ## Ficheros 
 
-Carpeta "python" &rarr; Código de texto escrito en python guardado en formato _.ipynb_ y creado en la plataforma "Jupyter"
+Carpeta "python":
 
-Carpeta "csv" &rarr; Archivo _.csv_ con los datos finales.
+  &rarr; Código de texto escrito en python guardado en formato _.ipynb_ y creado en la plataforma "Jupyter"
 
-Carpeta "pdf" &rarr; Archivo  _.pdf_ con una descripción completa del desarrollo de la práctica.
+  &rarr; Evaluación inicial sobre Rincón Educativo en formato _.ipynb_ y creado en la plataforma "Jupyter"
+                 
+  &rarr; Evaluación inicial sobre wikipedia en formato _.ipynb_ y creado en la plataforma "Jupyter"
+                 
+Carpeta "csv":
 
+  &rarr; Archivo _.csv_ con los datos finales.
+
+Carpeta "pdf":
+
+  &rarr; Archivo  _.pdf_ con una descripción completa del desarrollo de la práctica.
+
+## Publicación en Zenodo
+
+El archivo resultante del estudio ha sido publicado en la web Zenodo.
+
+* https://zenodo.org/record/3751110#.XpWeV8gzYaY
 
 ## Webs utilizadas para realizar scraping
 

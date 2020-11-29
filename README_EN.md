@@ -36,13 +36,13 @@ The resulting archive of the study has been published on the Zenodo website.
 
 ## Websites used for scraping
 
-* http://www.rinconeducativo.org/contenidoextra/tablasperiodicas/tabla/tabla.php#tit consultada por última vez el 14/04/2020.
+* http://www.rinconeducativo.org/contenidoextra/tablasperiodicas/tabla/tabla.php#tit last consulted on 14/04/2020.
 
-* https://es.wikipedia.org/wiki/Tabla_peri%C3%B3dica_de_los_elementos consultada por última vez el 14/04/2020.
+* https://es.wikipedia.org/wiki/Tabla_peri%C3%B3dica_de_los_elementos last consulted on 14/04/2020.
 
 
 ## References
 
 * Lawson, R. (2015, october). _Web Scraping with Python_. Birmingham: Packt Publishing Ltd.
 
-* https://docs.python.org/3/library/re.html consultada por última vez el 14/04/2020.
+* https://docs.python.org/3/library/re.html last consulted on 14/04/2020.

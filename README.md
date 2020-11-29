@@ -1,52 +1,48 @@
-# Práctica 1
-## Los elementos de la tabla periódica
+## Web Scraping of The Chemical Elements of the Periodic Table
 
-## Descripción
+## Description
 
-El objetivo de esta práctica es la implementación de técnicas de _web scraping_, para ello se ha utilizado el lenguaje de programación Python con el que se ha extraído información de los elementos de la tabla periódica. Esta práctica se desarrolla en el _máster de ciencia de datos de la UOC_, más concretamente sobre la asignatura de Tipología y viclo de vida de los datos.
-
-
-## Miembros del equipo
-
-La actividad ha sido realizada de manera individual por **Mario Martínez García**.
+The aim of this practice is the implementation of _web scraping_ techniques, for which the Python programming language has been used to extract information from the elements of the periodic table. This practice is developed in the UOC's _master's degree in data science_, more specifically in the subject of "Data typology and data life cycle".
 
 
-## Ficheros 
+## Team members
 
-Carpeta "python_code":
+The activity has been carried out by **Mario Martínez García**.
 
-  &rarr; Código de texto escrito en python guardado en formato _.ipynb_ y creado en la plataforma "Jupyter"
 
-  &rarr; Evaluación inicial sobre Rincón Educativo en formato _.ipynb_ y creado en la plataforma "Jupyter"
+## Files
+
+Folder "python_code":
+
+  &rarr; Text code written in python saved in _.ipynb_ format and created in the "Jupyter" platform
+
+  &rarr; Initial evaluation on "Rincon Educativo" website in _.ipynb_ format and created on the "Jupyter" platform
                  
-  &rarr; Evaluación inicial sobre wikipedia en formato _.ipynb_ y creado en la plataforma "Jupyter"
+  &rarr; Initial evaluation on wikipedia in _.ipynb_ format and created on the "Jupyter" platform
                  
-Carpeta "csv":
+Folder "csv":
 
-  &rarr; Archivo _.csv_ con los datos finales.
+  &rarr; _.csv_ file with the final data.
 
-Carpeta "pdf":
+Folder "pdf":
 
-  &rarr; Archivo  _.pdf_ con una descripción completa del desarrollo de la práctica.
+  &rarr; _.pdf_ file with a complete description of the development of the practice.
 
-## Publicación en Zenodo
+## Publication in Zenodo
 
-El archivo resultante del estudio ha sido publicado en la web Zenodo.
+The resulting archive of the study has been published on the Zenodo website.
 
 * https://zenodo.org/record/3751110#.XpWeV8gzYaY
 
-## Webs utilizadas para realizar scraping
+## Websites used for scraping
 
-* http://www.rinconeducativo.org/contenidoextra/tablasperiodicas/tabla/tabla.php#tit consultada por última vez el 14/04/2020.
+* http://www.rinconeducativo.org/contenidoextra/tablasperiodicas/tabla/tabla.php#tit last consulted on 14/04/2020.
 
-* https://es.wikipedia.org/wiki/Tabla_peri%C3%B3dica_de_los_elementos consultada por última vez el 14/04/2020.
+* https://es.wikipedia.org/wiki/Tabla_peri%C3%B3dica_de_los_elementos last consulted on 14/04/2020.
 
 
-## Recursos consultados
+## References
 
 * Lawson, R. (2015, october). _Web Scraping with Python_. Birmingham: Packt Publishing Ltd.
 
-* https://docs.python.org/3/library/re.html consultada por última vez el 14/04/2020.
-
-
-
+* https://docs.python.org/3/library/re.html last consulted on 14/04/2020.
